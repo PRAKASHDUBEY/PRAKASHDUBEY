@@ -6,7 +6,7 @@
 
 - 🌱 I’m learning React framework to become a full(MERN) stack developer.
 
-- ⚡ One of the complete back-end built by me is [Verdict API](https://github.com/PRAKASHDUBEY/verdict), an application for organiZing netizens-verdict regarding all the four pillars of democracy at a single social media platform.
+- ⚡ One of the complete back-end built by me is [Verdict API](https://github.com/PRAKASHDUBEY/verdict), an application for organizing netizens-verdict regarding all the four pillars of democracy at a single social media platform.
 
 
 ### We can have chat at:
