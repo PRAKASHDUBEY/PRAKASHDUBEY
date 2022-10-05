@@ -4,9 +4,7 @@
 
 🔭 I'm an Backend enthusiast who has gained experience through projects, hackathons, and internship.
 
-- 🌱 I’m learning React framework to become a full(MERN) stack developer.
-
-- ⚡ One of the back-end CRUD operation project built by me is [Verdict API](https://github.com/PRAKASHDUBEY/verdict), an application for organizing netizens-verdict regarding the quality of functioning of their pillars of democracy.
+⚡ One of the back-end CRUD operation project built by me is [Verdict API](https://github.com/PRAKASHDUBEY/verdict), an application for organizing netizens-verdict regarding the quality of functioning of their pillars of democracy.
 
 
 ### We can have chat at:
