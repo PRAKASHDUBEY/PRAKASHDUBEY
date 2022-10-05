@@ -1,6 +1,6 @@
-### 👋 Hey,
+### 👋 Hey there,
 
-👨‍🎓 A engineering undergrad student from Army Institute of Technology Pune, India.
+👨‍🎓 I am an engineering undergrad student from Army Institute of Technology Pune, India.
 
 🔭 I'm an Backend enthusiast who has gained experience through projects, hackathons, and internship.
 
