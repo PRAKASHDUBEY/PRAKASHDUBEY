@@ -3,13 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakashdubey" alt="prakashdubey" /></a> </p>
 
-- 🌱 I’m currently learning **Web Security**
+- 💬 Ask me about **Javascript, Nodejs, Web Development, Computer Network(Internet), API, Software Testing, SRS**
 
-- 💬 Ask me about **Javascript**
-
-- 📫 How to reach me **https://www.linkedin.com/in/prakashdubey01/**
-
-- ⚡ Fun fact **https://drive.google.com/drive/folders/1GdKM-r8Hvpa45PB30eSVIEQMa5PFbDcO**
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1GdKM-r8Hvpa45PB30eSVIEQMa5PFbDcO](https://drive.google.com/drive/folders/1GdKM-r8Hvpa45PB30eSVIEQMa5PFbDcO)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,5 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakashdubey&show_icons=true&locale=en&layout=compact" alt="prakashdubey" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakashdubey&show_icons=true&locale=en" alt="prakashdubey" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakashdubey&" alt="prakashdubey" /></p>
