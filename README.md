@@ -21,6 +21,6 @@
 
 ###
 
-<p align="left">I'm a Node.Js Developer<br><br>- </p>
+<p align="left">Node.Js Developer<br></p>
 
 ###
