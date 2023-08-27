@@ -21,6 +21,6 @@
 
 ###
 
-<p align="left">I'm a final year grad student at AIT Pune<br><br>- 🔭 I’ve a experience of Backend Web Development<br>- 📚 I’ve also developed project of AIML, Android and BlockChain </p>
+<p align="left">I'm a Node.Js Developer<br><br>- </p>
 
 ###
